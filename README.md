@@ -2,7 +2,7 @@
 
 API REST desenvolvida em Java com Spring Boot para gerenciar a lógica, fichas de personagens, testes de atributos e o motor de combate do sistema de RPG **Ordem Paranormal**.
 
-> 🔗 **Front-end da aplicação:** [ordem-paranormal-frontend](https://github.com/SEU_USUARIO/ordem-paranormal-frontend)
+> 🔗 **Front-end da aplicação:** [ordem-paranormal-frontend](https://github.com/Mafa-xp/ordem-paranormal-frontend)
 
 ---
 
