@@ -1,4 +1,5 @@
 🧩 Ordem Paranormal RPG — Back-end (Spring Boot)
+<img width="800" height="381" alt="GravaodeTela2026-10-1216583311-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/71e8e176-213a-4866-9ab3-c0de18aa97b2" />
 
 API REST desenvolvida em Java com Spring Boot para gerenciar a lógica, fichas de personagens, testes de atributos e o motor de combate do sistema de RPG **Ordem Paranormal**.
 
@@ -26,12 +27,6 @@ API REST desenvolvida em Java com Spring Boot para gerenciar a lógica, fichas d
 * **Turno e Cooldown:** Gerenciamento de cooldown de 5 turnos para Ataques Especiais e tomada de decisão de I.A. para o inimigo.
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-```bash
-# Clone o repositório
-git clone [https://github.com/SEU_USUARIO/ordem-paranormal-backend.git](https://github.com/SEU_USUARIO/ordem-paranormal-backend.git)
 
 # Acesse a pasta do projeto
 cd ordem-paranormal-backend
