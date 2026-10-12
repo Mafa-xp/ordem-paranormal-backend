@@ -28,10 +28,4 @@
   * **Especialista:** Bônus de Intelecto aplicado aos testes de dados.
 * **Turno e Cooldown:** Gerenciamento de cooldown de 5 turnos para Ataques Especiais e tomada de decisão de I.A. para o inimigo.
 
----
 
-# Acesse a pasta do projeto
-cd ordem-paranormal-backend
-
-# Execute a aplicação via Maven
-./mvnw spring-boot:run
