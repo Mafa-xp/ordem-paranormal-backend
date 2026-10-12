@@ -3,7 +3,7 @@
 <img width="800" height="381" alt="GravaodeTela2026-10-1216583311-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/71e8e176-213a-4866-9ab3-c0de18aa97b2" />
 
 ---
-* **API REST desenvolvida em Java com Spring Boot para gerenciar a lógica, fichas de personagens, testes de atributos e o motor de combate do sistema de RPG **Ordem Paranormal**.
+* API REST desenvolvida em Java com Spring Boot para gerenciar a lógica, fichas de personagens, testes de atributos e o motor de combate do sistema de RPG **Ordem Paranormal**.
 
 > 🔗 **Front-end da aplicação:** [ordem-paranormal-frontend](https://github.com/Mafa-xp/ordem-paranormal-frontend)
 
